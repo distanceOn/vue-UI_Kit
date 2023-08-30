@@ -50,7 +50,7 @@ const links = ref([
         margin-bottom: 10px;
 
         &:hover {
-            border-color: var(--primary-color);
+            border-color: var(--primary);
         }
     }
 }
